@@ -10,3 +10,5 @@ If Riichi-City's server take a heavy latency or a mass server incident, I do not
 ## Try nmap query  
 
 https://nmap.org/
+
+> I did not that. It's joke. I will sent to a email to them for this app 
