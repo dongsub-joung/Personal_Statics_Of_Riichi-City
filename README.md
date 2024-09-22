@@ -11,4 +11,9 @@ If Riichi-City's server take a heavy latency or a mass server incident, I do not
 
 https://nmap.org/
 
-> I did not that. It's joke. I will sent to a email to them for this app 
+> I did not that. It's joke. I will sent to a email to them for this app
+
+---  
+
+https://www.reddit.com/r/Digital_Life_Logs/comments/1fn382z/%EC%A0%95%EB%8F%99%EC%84%AD_%EB%8B%A4_%EC%A3%BD%EC%9D%80_%EB%8B%A4%EC%9D%8C%EC%97%90_%EC%86%8D%EC%84%B1_%EA%B0%95%ED%99%94_%EC%9E%A5%EC%95%A0%EC%9D%B8_%EC%93%B0%EB%A0%88%EA%B8%B0_%EB%B3%91%EC%8B%A0_%ED%95%9C%EB%AF%BC%EC%A1%B1%EC%9D%B4_%ED%99%8D%EB%B3%B4%EC%A2%80_%ED%95%98%EB%A0%A4%EB%8A%94%EA%B2%8C_%EB%88%88%EC%97%90/  
+
